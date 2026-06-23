@@ -36,8 +36,9 @@ Frontend Developer (React / TypeScript)
 
 ## 📊 Codewars
 
-[![Codewars](https://www.codewars.com/users/vasilyefff/badges/large)](https://www.codewars.com/users/vasilyefff)
+![Codewars Badge](https://www.codewars.com/users/vasilyefff/badges/large)
 
+Profile: https://www.codewars.com/users/vasilyefff
 ---
 
 ## 📫 Контакты
